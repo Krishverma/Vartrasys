@@ -16,6 +16,9 @@ Vartrasys is an AI and computer vision-based dynamic traffic signal control solu
 - **Intuitive UI Dashboard:**  
   Developed a real-time simulation dashboard, providing immediate feedback on system decisions and traffic conditions.
 
+- **Simulation Demo:**  
+  Watch a demonstration of the simulation in action: [YouTube Video](https://youtu.be/MDRUhWVT1M4?si=-bfHJq0lfpoGLiiw)
+
 ## About
 
 Vartrasys addresses the limitations of fixed-time traffic lights by introducing a low-cost, scalable, and intelligent solution. It combines ESP32-CAM modules, computer vision, and AI to:
